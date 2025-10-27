@@ -1,5 +1,3 @@
-#Torch
-
 ## Overview
 
 *Torch* is a app for doing exactly two things:
