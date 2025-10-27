@@ -12,9 +12,6 @@
 Here it is in action for a very simple recurrent model; as you can see, you just define the model like normal and pass
 it in, and *TorchLens* returns a full log of the forward pass along with a visualization:
 
-
-<img src="images/simple_recurrent.png" width=30% height=30%>
-
 And here it is for a very complex transformer model with 1932 operations
 in its forward pass; you can grab the saved outputs of every last one:
 
