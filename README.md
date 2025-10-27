@@ -2,7 +2,7 @@
 
 ## Overview
 
-*TorchLens* is a app for doing exactly two things:
+*Torch* is a app for doing exactly two things:
 
 1) Easily extracting the activations from every single intermediate operation in a PyTorch model—no
    modifications needed—in one line of code. "Every operation" means every operation; "one line" means one line.
@@ -61,7 +61,6 @@ Log of AlexNet forward pass:
 '''
 ```
 
-<img src="images/alexnet.png" width=30% height=30%>
 
 You can pull out information about a given layer, including its activations and helpful metadata, by indexing
 the ModelHistory object in any of these equivalent ways:
